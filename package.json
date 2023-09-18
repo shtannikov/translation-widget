@@ -1,5 +1,4 @@
 {
-  "name": "client",
   "scripts": {
     "publish": "webpack",
     "start": "webpack serve"
