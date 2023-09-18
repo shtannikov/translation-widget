@@ -3,3 +3,4 @@ public
 package-lock.json
 .DS_Store
 .idea
+.env
